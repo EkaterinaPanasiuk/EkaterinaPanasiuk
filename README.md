@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **EkaterinaPanasiuk/EkaterinaPanasiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <p>
 I am a frontend developer from Belarus</p>
 <p>I like to solve tasks on the site "Codewars"</p>
+<p>I’m currently learning TypeScript & Next.JS</p>
 
 ---
 
@@ -50,3 +51,10 @@ I am a frontend developer from Belarus</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+<h2>Fun fact:</h2>
+<p>
+I can make marshmallows....yam)))</p>
+<p>I can scratch my dog's belly all day long)))</p>
