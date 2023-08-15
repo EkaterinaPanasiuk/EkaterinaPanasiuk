@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWplNzI3ZmdybHpqbmJ2bDE0MTM4eDhzYXNsNDkwMno5a2Ewamo3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWftmsM6gfKxoiacdf/giphy.gif" width="150"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
    <a href="https://www.linkedin.com/in/ekatsiaryna-panasiuk-58088926b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
     <a href="https://t.me/Ekaterina_Panasiuk">
@@ -34,14 +34,14 @@ Here are some ideas to get you started:
     ---
 
     
-    ### :woman_technologist: About Me :
+<h2>woman_technologist: About Me :</h2>
 <p>
 I am a frontend developer from Belarus</p>
 <p>I like to solve tasks on the site "Codewars"</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2>Languages and Tools :</h2>
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
