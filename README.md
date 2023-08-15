@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 
     
 <h2> About Me :</h2>
-<p>
-- ⚡ I am a frontend developer from Belarus</p>
-<p> - 🤔 I like to solve tasks on the site "Codewars"</p>
-<p> - 🔭 I’m currently learning TypeScript & Next.JS</p>
+<p>	&#127757; I am a frontend developer from Belarus</p>
+<p> - &#129300; I like to solve tasks on the site "Codewars"</p>
+<p> 	&#128343; I’m currently learning TypeScript & Next.JS</p>
 
 ---
 
@@ -55,5 +54,5 @@ Here are some ideas to get you started:
 
 <h2>Fun fact:</h2>
 <p>
-I can make marshmallows....yam)))</p>
-<p> - 😄 I can scratch my dog's belly all day long)))</p>
+I can make marshmallows....yam 	&#127848;	&#127848;	&#127848;)))</p>
+<p> 	&#128041; I can scratch my dog's 	&#128041; belly all day long)))</p>
