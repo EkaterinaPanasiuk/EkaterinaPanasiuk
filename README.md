@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/ekatsiaryna-panasiuk-58088926b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
     <a href="https://t.me/Ekaterina_Panasiuk">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>a>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=EkaterinaPanasiuk
 &style=flat-square&color=blue" alt=""/>
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <p>
 I am a frontend developer from Belarus</p>
 <p>I like to solve tasks on the site "Codewars"</p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,5 +47,5 @@ I am a frontend developer from Belarus</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
