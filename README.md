@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWplNzI3ZmdybHpqbmJ2bDE0MTM4eDhzYXNsNDkwMno5a2Ewamo3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWftmsM6gfKxoiacdf/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWplNzI3ZmdybHpqbmJ2bDE0MTM4eDhzYXNsNDkwMno5a2Ewamo3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWftmsM6gfKxoiacdf/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/ekatsiaryna-panasiuk-58088926b/">
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 &style=flat-square&color=blue" alt=""/>
 <h1>
   Hey there )
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 
     
@@ -36,9 +35,9 @@ Here are some ideas to get you started:
     
 <h2> About Me :</h2>
 <p>
-I am a frontend developer from Belarus</p>
-<p>I like to solve tasks on the site "Codewars"</p>
-<p>I’m currently learning TypeScript & Next.JS</p>
+- ⚡ I am a frontend developer from Belarus</p>
+<p> - 🤔 I like to solve tasks on the site "Codewars"</p>
+<p> - 🔭 I’m currently learning TypeScript & Next.JS</p>
 
 ---
 
@@ -57,4 +56,4 @@ I am a frontend developer from Belarus</p>
 <h2>Fun fact:</h2>
 <p>
 I can make marshmallows....yam)))</p>
-<p>I can scratch my dog's belly all day long)))</p>
+<p> - 😄 I can scratch my dog's belly all day long)))</p>
