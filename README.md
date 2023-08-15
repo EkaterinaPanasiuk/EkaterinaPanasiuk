@@ -23,8 +23,7 @@ Here are some ideas to get you started:
     <a href="https://t.me/Ekaterina_Panasiuk">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=EkaterinaPanasiuk
-&style=flat-square&color=blue" alt=""/>
+
 <h1>
   Hey there )
 </h1>
